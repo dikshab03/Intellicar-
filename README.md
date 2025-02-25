@@ -5,4 +5,4 @@ The system is built for seamless integration into modern automotive systems, ena
 
 
 https://drive.google.com/file/d/1qX-fDLLMHxZuvT0LB1Pk5-N0cUNXKXj4/view?usp=drive_link
-[demo video link]
+[demo video link for Intellicar]
